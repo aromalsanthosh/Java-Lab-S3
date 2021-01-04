@@ -1,6 +1,6 @@
 <h3>OBJECT ORIENTED PROGRAMMING LAB (IN JAVA) SET2</h3>
 <br>
-Markup :
+
 1.Java class having overloaded methods to calculate area of rectangle
 and circle.<br>
 
@@ -10,10 +10,10 @@ and circle.<br>
 
 4.Program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a method named 'returnArea' which returns the area of the rectangle. Length and breadth of rectangle are entered through keyboard.<br>
 
-5.class with a method that prints "This is parent class" and its subclass with another method that prints "This is child class". Now, create an object for each of the class and call
-1.method of parent class by object of parent class
-2.method of child class by object of child class
-3.method of parent class by object of child class
+5.class with a method that prints "This is parent class" and its subclass with another method that prints "This is child class". Now, create an object for each of the class and call<br>
+1.method of parent class by object of parent class<br>
+2.method of child class by object of child class<br>
+3.method of parent class by object of child class<br>
 
 
 
