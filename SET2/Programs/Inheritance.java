@@ -1,21 +1,16 @@
 
-
-	class A{
-		void displayA() {
-			System.out.println("This is Parent class");
-		}
-	}
+class A{
 	
-	class B extends A{
-		void displayB() {
-			
-			System.out.println("This is Child class");
-		}
-		
-		
-		
-		
+	void displayA() {
+		System.out.println("This is Parent class");
 	}
+}
+	
+class B extends A{
+	void displayB() {
+			System.out.println("This is Child class");
+	}
+}
 	
 public class Inheritance {
 	public static void main(String[] args) {
