@@ -7,6 +7,7 @@ public class Triangle {
 		int s1=3,s2=4,s3=5;
 		
 		perimeter=s1+s2+s3;
+		//finding semi perimeter
 		double phalf = perimeter/2;
 		//Using Heron's Formula to calculate Area 
 		area=Math.sqrt(phalf*(phalf-s1)*(phalf-s2)*(phalf-s3));
