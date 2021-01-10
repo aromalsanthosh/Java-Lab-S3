@@ -1,14 +1,10 @@
 import java.util.Scanner;
 
 public class Queue {
-	
-	
+
 	static Scanner sc = new Scanner(System.in);
-	
 	static int  n, front = -1, rear = -1, item;
-	
 	static int[] Ar = new int[10];
-	
 	
 	Queue() {
 		
@@ -34,11 +30,9 @@ public class Queue {
 		    }
 		  } while (ch < 3);
 	}
-	
-	
+		
 	public static void main(String[] args) {
 		Scanner sc1 = new Scanner(System.in);
-
 		int n;
 		
 		System.out.printf("Enter the size of Queue:");
