@@ -31,6 +31,6 @@ class PrintPrime{
 		int num;
 		System.out.println("Enter value Of N upto which prime numbers are to be printed :");
 		num = sc.nextInt();
-		PrintPrime obj = new PrintPrime(num);
+		new PrintPrime(num);
 	}
 }
