@@ -21,7 +21,7 @@ class PrintPrime{
             }
  
             if ( isPrime == true )
-                System.out.println(num);
+                System.out.print(num+" ");
         }
 	}
 	
