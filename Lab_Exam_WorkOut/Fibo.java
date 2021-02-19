@@ -8,7 +8,7 @@ class FibonacciSeries{
 	public int Fibonacci(int limit) {
 		int large=0;
 		int first=0,second=1,third;
-		for (int i = 1; first <=limit; i++) {
+		while(first <=limit) {
 					
 			large=first;
 			System.out.print(first+" ");
