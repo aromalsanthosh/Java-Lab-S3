@@ -1,3 +1,5 @@
+/*Java program to find sum of squares of two numbers and sum of squares of digit in
+a number using consructor overloading*/
 import java.util.*;
 public class SquareSum {
 
