@@ -1,4 +1,4 @@
-//Java Program to Print Amstrong Numbers upto N
+//Java Program to Print Amstrong Numbers upto  limit N
 import java.util.Scanner;
 
 class PrintAmstrong{
