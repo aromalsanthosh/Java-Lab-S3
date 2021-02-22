@@ -1,7 +1,7 @@
 import java.util.*;
-public class sum {
+public class SquareSum {
 
-		public sum(int n){
+		public SquareSum(int n){
 			int count=0;
 			int num=n;
 			while(n!=0){
@@ -21,12 +21,12 @@ public class sum {
 	           System.out.println("the sum of square of number is"+sum1);
 		}
 		
-		public sum(int a,int b){
+		public SquareSum(int a,int b){
 			int sum2=(a*a)+(b*b);
 			System.out.println("the sum of square of two numbers is"+sum2);
 }
 public static void main(String[] args){
-	sum a=new sum(54);
-	sum b=new sum(3,4);
+	sum a=new SquareSum(54);
+	sum b=new SquareSum(3,4);
 }
 }
