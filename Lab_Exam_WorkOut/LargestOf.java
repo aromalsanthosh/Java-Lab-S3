@@ -1,4 +1,4 @@
-//Java Program to find largest of 3 numbers and largest of 2 numbers using constructor overloading
+//Java Program to find largest of 3 numbers and largest of 2 numbers using method overloading
 import java.util.Scanner;
 
 public class LargestOf {
